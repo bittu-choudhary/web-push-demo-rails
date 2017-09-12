@@ -1,0 +1,2 @@
+class WebPushNotificationsController < ApplicationController
+end
